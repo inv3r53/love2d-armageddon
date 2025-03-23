@@ -1,0 +1,19 @@
+# LÖVE build files
+*.love
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Lua compiled files
+*.o
+*.a
+*.so
+*.dll
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
